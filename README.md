@@ -2,7 +2,7 @@
 MongoDB Logger
 
 ## See
-- [https://packagist.org/explore/?query=Lambelcebur](https://packagist.org/explore/?query=Lambelcebur)
+- [https://packagist.org/explore/?query=lambelcebur](https://packagist.org/explore/?query=lambelcebur)
 
 ## Installation
 
@@ -10,10 +10,10 @@ Installation of this module uses composer. For composer documentation, please re
 [getcomposer.org](http://getcomposer.org/).
 
 ```sh
-composer require Lambelcebur/mongodb-logger
+composer require lambelcebur/mongodb-logger
 ```
 
-Then add `LamBelcebur\MongoDBLogger` to your `config/application.config.php` and copy `config/Lambelcebur-mongodb-logger.global.php.dist` to your autoload config folder
+Then add `LamBelcebur\MongoDBLogger` to your `config/application.config.php` and copy `config/lambelcebur-mongodb-logger.global.php.dist` to your autoload config folder
 
 
 ```php

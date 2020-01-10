@@ -1,5 +1,5 @@
 {
-  "name": "Lambelcebur/mongodb-logger",
+  "name": "lambelcebur/mongodb-logger",
   "description": "MongoDb Logger integration to Lam",
   "keywords": [
     "mongo",
@@ -17,10 +17,10 @@
     "laminas/laminas-mvc": "^3.0"
   },
   "suggest": {
-    "Lambelcebur/doctrine-orm-resources": "DoctrineORM Resources to Lam",
-    "Lambelcebur/materialize-css-helper": "MaterializeCss Helper integration to Lam",
-    "Lambelcebur/oauth2-social-client": "Lam extends module from thephpleague/oauth2-client",
-    "Lambelcebur/mvc-basic-tools": "Lam tools for controllers,views,helpers, plugins and more ..."
+    "lambelcebur/doctrine-orm-resources": "DoctrineORM Resources to Lam",
+    "lambelcebur/materialize-css-helper": "MaterializeCss Helper integration to Lam",
+    "lambelcebur/oauth2-social-client": "Lam extends module from thephpleague/oauth2-client",
+    "lambelcebur/mvc-basic-tools": "Lam tools for controllers,views,helpers, plugins and more ..."
   },
   "license": "Apache-2.0",
   "authors": [
